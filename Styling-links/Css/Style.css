@@ -1,0 +1,21 @@
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a {
+   color: hsl(207, 44%, 49%);
+}
+
+a:visited {
+    color: #800080;
+}
+a:hover, a:focus{
+     color: hsl(189 ,207, 44%, 49%, 0.8);
+     background: #ffd700; 
+}
+
+a:active{
+    color: #f00;
+}
