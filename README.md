@@ -1,2 +1,2 @@
 # Css-Tutorial
-Want to know more about, get to have here.
+Want to know more about Css, get to have tutorial here.
